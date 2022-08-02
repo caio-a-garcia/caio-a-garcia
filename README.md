@@ -1,9 +1,27 @@
-- 👋 Hi, I’m Caio Garcia (@caio-a-garcia)
-- 👀 I’m interested in:
+### Hi, I’m Caio Garcia
+
+#### What I do
+I’m currently working with Unreal Engine 5 for the development of an enterprise product. When clocked out I play with Clojure and Python both for web development and data analysis, and have been learning linux as I explore the best tools for development in those languages. I can only fit all those in my schedulle thanks to Emacs and org-mode.
+
+#### Some interests of mine
   *  [games](https://www.reddit.com/r/Kenshi/), [music](https://open.spotify.com/playlist/4B5KfekfCphbvzorrXPJNP?si=31cd6f4ff9c845b2) and [philosophy](https://existentialcomics.com/comic/90)
   *  compilers, the creation of programming languages and Open Source
-- 🌱 I’m currently learning web development with Clojure and Python
-- 📫 You can find me [here](https://github.com/caio-a-garcia) and on [LinkedIn](https://www.linkedin.com/in/caio-garcia-380532163/)
+
+<div align="center">
+  <a href="https://github.com/caio-a-garcia">
+  <img height="150en" src="https://github-readme-stats.vercel.app/api?username=caio-a-garcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-a-garcia&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<div align="center">
+  <img align="center" alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Clojure logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
+  <img align="center" alt="Linux mascot logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Unreal Engine logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
+</div>
+
+- 📫 You can find me [here](https://github.com/caio-a-garcia), on [LinkedIn](https://www.linkedin.com/in/caio-garcia-380532163/) and on my [email](caio.augusto@algar.com.br)
 
 <!---
 caio-a-garcia/caio-a-garcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
