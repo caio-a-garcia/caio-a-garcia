@@ -1,7 +1,6 @@
 ### Hi, I’m Caio Garcia
 
-#### What I do
-I’m currently a fullstack developer working on a low-code app built on Clojure/Script. On the non-working time I philosophise about how web technologies can improve the recruiting and report delivery aspects of the data stack.
+I'm a developer experienced mostly with Python and Clojure. Interested in web development and all things data.
 
 #### Some interests of mine
   *  [games](https://www.reddit.com/r/Kenshi/), [music](https://open.spotify.com/playlist/4B5KfekfCphbvzorrXPJNP?si=31cd6f4ff9c845b2) and [philosophy](https://existentialcomics.com/comic/90)
